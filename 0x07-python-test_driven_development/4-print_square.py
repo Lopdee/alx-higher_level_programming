@@ -1,9 +1,5 @@
 #!/usr/bin/python3
-"""
-print_square module
-This function print a square using '#'
-
-"""
+"""Defines a square-printing function."""
 
 
 def print_square(size):
